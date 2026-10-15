@@ -233,7 +233,7 @@ Apagar el servidor:
 sudo poweroff
 ```
 
-## 16. Instalar Apache (por si lo necesitamos en Aplicaciones Web)
+## 16. Instalar Apache 
 
 Instalamos Apache:
 
